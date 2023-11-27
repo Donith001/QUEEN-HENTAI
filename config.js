@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94767939688', '𝓡𝓪𝓼𝓱𝓲 𝓸𝓯𝓯𝓲𝓬𝓲𝓪𝓵💞', false],
-  ['94767939688', '𝓡𝓪𝓼𝓱𝓲 𝓸𝓯𝓯𝓲𝓬𝓲𝓪𝓵💞', false], 
+  ['94701643684', '𝓡𝓪𝓼𝓱𝓲 𝓸𝓯𝓯𝓲𝓬𝓲𝓪𝓵💞', false],
+  ['94701643684', '𝓡𝓪𝓼𝓱𝓲 𝓸𝓯𝓯𝓲𝓬𝓲𝓪𝓵💞', false], 
   ['94701643684'] 
 ] //Number of owners
 
-global.mods = ['94767939688','94767939688'] 
-global.prems = ['94767939688', '94767939688', '94767939688']
+global.mods = ['94701643684','94701643684'] 
+global.prems = ['94701643684', '94701643684', '94701643684']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -48,7 +48,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.botname = '💝 Queen Hentai 💝'
-global.premium = 'false'
+global.premium = 'true'
 global.packname = '💝 Queen Hentai 💝 Created By 💝 𝓡𝓪𝓼𝓱𝓲 𝓸𝓯𝓯𝓲𝓬𝓲𝓪𝓵   💝' 
 global.author = '💝 𝓡𝓪𝓼𝓱𝓲 𝓸𝓯𝓯𝓲𝓬𝓲𝓪𝓵   💝' 
 global.igfg = '▢ Follow on Facebook\https://www.facebook.com/profile.php?id=61551915615888\n' 
