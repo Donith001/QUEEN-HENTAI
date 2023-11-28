@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94701643684', 'ℝ𝕒𝕤𝕙𝕚 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝💞', false],
-  ['94701643684', 'ℝ𝕒𝕤𝕙𝕚 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝💞', false], 
+  ['94701643684', 'ℝ𝕒𝕤𝕙𝕚 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝💞', true],
+  ['94701643684', 'ℝ𝕒𝕤𝕙𝕚 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝💞', true], 
   ['94701643684'] 
 ] //Number of owners
 
@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 global.botname = '💝 Queen Hentai 💝'
 global.premium = 'true'
 global.packname = '💝 Queen Hentai 💝 Created By 💝 ℝ𝕒𝕤𝕙𝕚 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝   💝' 
-global.author = '💝 ℝ𝕒𝕤𝕙 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝   💝' 
+global.author = '💝 ℝ𝕒𝕤𝕙𝕚 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝  💝' 
 global.igfg = '▢ Follow on Facebook\https://www.facebook.com/profile.php?id=61551915615888\n' 
 global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
