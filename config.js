@@ -48,7 +48,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.botname = '💝 Queen Hentai 💝'
-global.premium = 'false'
+global.premium = 'true'
 global.packname = '💝 Queen Hentai 💝 Created By 💝 𝓡𝓪𝓼𝓱𝓲 𝓸𝓯𝓯𝓲𝓬𝓲𝓪𝓵   💝' 
 global.author = '💝 𝓡𝓪𝓼𝓱𝓲 𝓸𝓯𝓯𝓲𝓬𝓲𝓪𝓵   💝' 
 global.igfg = '▢ Follow on Facebook\https://www.facebook.com/profile.php?id=61551915615888\n' 
